@@ -65,6 +65,3 @@ Contributions are welcome! Please open an issue or submit a PR for:
 
 MIT License
 
----
-
-**Happy coding!** ✨
