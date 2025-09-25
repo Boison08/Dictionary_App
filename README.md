@@ -20,7 +20,7 @@ A feature-rich dictionary application that combines the efficiency of a Binary S
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bst-dictionary.git
+git clone https://github.com/boison08/bst-dictionary.git
 cd bst-dictionary
 ```
 
